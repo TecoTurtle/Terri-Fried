@@ -1,3 +1,4 @@
+(ignore this repo)
 # Terri-Fried
 
 Terri-Fried is a multi-platform C++ game made in 72 hours for Ludum Dare 46. It is currently available on PC, Web, PS Vita, PSP, Wii, GameCube, and Nintendo DS. Builds for each platform can be downloaded [here](https://polymars.itch.io/terri-fried).
